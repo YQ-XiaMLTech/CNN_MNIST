@@ -1,0 +1,29 @@
+Epoch [00001/00030] Loss_train: 0.197994 Loss_val: 0.062039 Accuracies_train: 93.9875, errors_train: 6.0125 Accuracies_val: 97.6000, errors_val: 2.4000 Lr: 0.001000 (Time: 7.948298s Time total: 0.13min Time remain: 3.84min)
+Epoch [00002/00030] Loss_train: 0.065744 Loss_val: 0.043420 Accuracies_train: 97.9771, errors_train: 2.0229 Accuracies_val: 98.4333, errors_val: 1.5667 Lr: 0.001000 (Time: 8.487109s Time total: 0.27min Time remain: 3.83min)
+Epoch [00003/00030] Loss_train: 0.048587 Loss_val: 0.041390 Accuracies_train: 98.5104, errors_train: 1.4896 Accuracies_val: 98.4417, errors_val: 1.5583 Lr: 0.001000 (Time: 8.461436s Time total: 0.41min Time remain: 3.73min)
+Epoch [00004/00030] Loss_train: 0.039183 Loss_val: 0.033345 Accuracies_train: 98.7438, errors_train: 1.2562 Accuracies_val: 98.7500, errors_val: 1.2500 Lr: 0.001000 (Time: 7.916076s Time total: 0.55min Time remain: 3.55min)
+Epoch [00005/00030] Loss_train: 0.031231 Loss_val: 0.033476 Accuracies_train: 98.9833, errors_train: 1.0167 Accuracies_val: 98.7750, errors_val: 1.2250 Lr: 0.001000 (Time: 7.601439s Time total: 0.67min Time remain: 3.37min)
+Epoch [00006/00030] Loss_train: 0.025889 Loss_val: 0.036150 Accuracies_train: 99.1958, errors_train: 0.8042 Accuracies_val: 98.5750, errors_val: 1.4250 Lr: 0.001000 (Time: 7.518096s Time total: 0.80min Time remain: 3.20min)
+Epoch [00007/00030] Loss_train: 0.023216 Loss_val: 0.030231 Accuracies_train: 99.2938, errors_train: 0.7062 Accuracies_val: 98.8917, errors_val: 1.1083 Lr: 0.001000 (Time: 7.762750s Time total: 0.93min Time remain: 3.05min)
+Epoch [00008/00030] Loss_train: 0.021010 Loss_val: 0.034798 Accuracies_train: 99.3312, errors_train: 0.6688 Accuracies_val: 98.7667, errors_val: 1.2333 Lr: 0.001000 (Time: 8.003474s Time total: 1.06min Time remain: 2.92min)
+Epoch [00009/00030] Loss_train: 0.018663 Loss_val: 0.028916 Accuracies_train: 99.3688, errors_train: 0.6312 Accuracies_val: 98.9417, errors_val: 1.0583 Lr: 0.001000 (Time: 7.700994s Time total: 1.19min Time remain: 2.78min)
+Epoch [00010/00030] Loss_train: 0.017388 Loss_val: 0.036490 Accuracies_train: 99.4167, errors_train: 0.5833 Accuracies_val: 98.7833, errors_val: 1.2167 Lr: 0.001000 (Time: 7.530036s Time total: 1.32min Time remain: 2.63min)
+Epoch [00011/00030] Loss_train: 0.016778 Loss_val: 0.030440 Accuracies_train: 99.4417, errors_train: 0.5583 Accuracies_val: 98.8917, errors_val: 1.1083 Lr: 0.001000 (Time: 7.776727s Time total: 1.45min Time remain: 2.50min)
+Epoch [00012/00030] Loss_train: 0.014189 Loss_val: 0.031494 Accuracies_train: 99.5187, errors_train: 0.4813 Accuracies_val: 98.9333, errors_val: 1.0667 Lr: 0.001000 (Time: 7.975040s Time total: 1.58min Time remain: 2.37min)
+Epoch [00013/00030] Loss_train: 0.013177 Loss_val: 0.043886 Accuracies_train: 99.5687, errors_train: 0.4313 Accuracies_val: 98.7250, errors_val: 1.2750 Lr: 0.001000 (Time: 7.716177s Time total: 1.71min Time remain: 2.23min)
+Epoch [00014/00030] Loss_train: 0.012903 Loss_val: 0.038682 Accuracies_train: 99.5479, errors_train: 0.4521 Accuracies_val: 98.8417, errors_val: 1.1583 Lr: 0.001000 (Time: 7.930748s Time total: 1.84min Time remain: 2.10min)
+Epoch [00015/00030] Loss_train: 0.011538 Loss_val: 0.036423 Accuracies_train: 99.6250, errors_train: 0.3750 Accuracies_val: 98.8583, errors_val: 1.1417 Lr: 0.001000 (Time: 7.848705s Time total: 1.97min Time remain: 1.97min)
+Epoch [00016/00030] Loss_train: 0.009507 Loss_val: 0.038879 Accuracies_train: 99.6771, errors_train: 0.3229 Accuracies_val: 98.8583, errors_val: 1.1417 Lr: 0.001000 (Time: 7.785010s Time total: 2.10min Time remain: 1.84min)
+Epoch [00017/00030] Loss_train: 0.012630 Loss_val: 0.036873 Accuracies_train: 99.5958, errors_train: 0.4042 Accuracies_val: 98.8750, errors_val: 1.1250 Lr: 0.001000 (Time: 7.714346s Time total: 2.23min Time remain: 1.70min)
+Epoch [00018/00030] Loss_train: 0.010680 Loss_val: 0.034311 Accuracies_train: 99.6375, errors_train: 0.3625 Accuracies_val: 98.9250, errors_val: 1.0750 Lr: 0.001000 (Time: 7.957342s Time total: 2.36min Time remain: 1.57min)
+Test Results_traindata:
+Loss: 0.001731
+accuracies_traindata: 99.9542, errors_traindata: 0.0458
+Test Results_valdata:
+Loss: 0.033487
+accuracies_valdata: 98.9250, errors_valdata: 1.0750
+Test Results_testdata:
+Loss: 0.031210
+accuracies_testdata: 99.0800, errors_testdata: 0.9200
+
+
